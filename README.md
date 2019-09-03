@@ -17,14 +17,25 @@ In this example, a Python script was created to visualize the weather of 500+ ci
 
 To answer the above question a series of relational scatter plots were built: 
 
-* Temperature (F) vs. Latitude
+### * Temperature (F) vs. Latitude
+
 ![TempVsLat](Images/latitude_vs_temperature.png)
-* Humidity (%) vs. Latitude
+
+
+### * Humidity (%) vs. Latitude
+
 ![HumidityVsLat](Images/latitude_vs_humidity.png)
-* Cloudiness (%) vs. Latitude
+
+
+### * Cloudiness (%) vs. Latitude
+
 ![CloudinessVsLat](Images/latitude_vs_cloudiness.png)
-* Wind Speed (mph) vs. Latitude
+
+
+### * Wind Speed (mph) vs. Latitude
+
 ![WindSpeedVsLat](Images/latitude_vs_wind.png)
+
 
 
 ## Analysis
