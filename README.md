@@ -17,20 +17,27 @@ In this example, a Python script was created to visualize the weather of 500+ ci
 
 To answer the above question a series of relational scatter plots were built: 
 
-1. Temperature (F) vs. Latitude
+* Temperature (F) vs. Latitude
+
 ![TempVsLat](Images/latitude_vs_temperature.png)
 
 
-2. Humidity (%) vs. Latitude
+
+* Humidity (%) vs. Latitude
+
 ![HumidityVsLat](Images/latitude_vs_humidity.png)
 
 
-3. Cloudiness (%) vs. Latitude
+
+* Cloudiness (%) vs. Latitude
+
 ![CloudinessVsLat](Images/latitude_vs_cloudiness.png)
 
 
-4. Wind Speed (mph) vs. Latitude
+* Wind Speed (mph) vs. Latitude
+
 ![WindSpeedVsLat](Images/latitude_vs_wind.png)
+
 
 
 
@@ -39,6 +46,7 @@ To answer the above question a series of relational scatter plots were built:
 * Although the weather in cities closest to the equator is not necessarily the warmest, temperature is higher on cities that are closer to the equator along the latitudes of -35 and 30. 
 * Wind speed tends to generally be between 0 and 20 mph regardless of latitude.
 * There is no strong relationship between latitude and humidity/cloudiness/wind speed.
+
 
 
 
