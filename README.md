@@ -43,5 +43,7 @@ The python script accomplishes the following:
 ## Observable Trends
 
 * Not surprisingly, temperature increases as we approach the equator. However, the weather in cities closest to the equator is not necessarily the warmest, temperature is higher on cities that are closer to the equator along the latitudes of -35 and 30. This may be due to the Earth's tilt in the axis known as obliquity.
+
 * Wind speed tends to generally be between 0 and 20 mph regardless of latitude.In addition, it appears to slightly increase as we move away from the equator.
+
 * There is no strong relationship to latitude between humidity and cloudiness. The visualizations above show a great variety of values at similar latitudes.
