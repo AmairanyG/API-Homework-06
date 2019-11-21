@@ -42,7 +42,7 @@ The python script accomplishes the following:
 
 
 
-### Observable Trends
+## Observable Trends
 
 * Not surprisingly, temperature increases as we approach the equator. However, the weather in cities closest to the equator is not necessarily the warmest, temperature is higher on cities that are closer to the equator along the latitudes of -35 and 30. This may be due to the Earth's tilt in the axis known as obliquity.
 
