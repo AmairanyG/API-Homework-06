@@ -4,7 +4,7 @@
 
 Python script was created to visualize the weather of 500+ cities across the world of varying distance from the equator using [CityPy](https://pypi.python.org/pypi/citipy), a simple Python library, the [OpenWeatherMap](https://openweathermap.org/api) API, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
 
-## Technology Used:
+### Technology Used:
 | Technology   		| Description    						|
 | :---         		|     :---:      						|
 |  Github      		| Jupyter notebook (ipynb), CSVs, API key						|
