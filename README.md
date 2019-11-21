@@ -1,11 +1,12 @@
 # What's the Weather Like?
 
-## Background
+### Background
 
 Python script was created to visualize the weather of 500+ cities across the world of varying distance from the equator using [CityPy](https://pypi.python.org/pypi/citipy), a simple Python library, the [OpenWeatherMap](https://openweathermap.org/api) API, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
 
 
-## WeatherPy
+
+### WeatherPy
 
 To answer the above question, a series of scatter plots were visualized to showcase the following relationships: 
 
@@ -40,7 +41,8 @@ The python script accomplishes the following:
 
 
 
-## Observable Trends
+
+### Observable Trends
 
 * Not surprisingly, temperature increases as we approach the equator. However, the weather in cities closest to the equator is not necessarily the warmest, temperature is higher on cities that are closer to the equator along the latitudes of -35 and 30. This may be due to the Earth's tilt in the axis known as obliquity.
 
